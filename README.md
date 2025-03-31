@@ -208,3 +208,4 @@ pip list
 # Pythonインタープリタでコードをテスト
 python -c "from app.db.session import Base; print(Base.metadata.tables.keys())"
 ```
+
